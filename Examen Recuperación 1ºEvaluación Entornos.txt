@@ -1,0 +1,15 @@
+Tema 1
+1º Codigo fuente, objeto y ejecutable (y dibujar el proceso)
+2º Lenguaje de programación segun su nivel de abstraccion (bajo, medio y alto)
+3º Segun su forma de ejecucion (compilados e interpretados)
+4º Segun su paradigma (imperativos, funcionales, logicos)
+5º Diferencia entre programación estructurada y orientado a objetos
+6º Las fases de generación de codigo pº24 y 25
+7º Las 5 fases del desarrollo del software con una breve explicación
+8º Modelos de desarrollo: cascada, iterativo incremental y espiral
+
+Tema 2
+1º Funciones de un IDE (entorno de desarrollo)
+2º Estructura de un entorno de desarrollo
+3º Tipos de IDE según su licencia: libres y propietarios
+4º Ejercicio de psudocódigo
